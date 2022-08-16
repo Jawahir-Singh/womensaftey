@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "318255261662",
+    "firebase_url": "https://signin-c9746.firebaseio.com",
+    "project_id": "signin-c9746",
+    "storage_bucket": "signin-c9746.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318255261662:android:dc6d9b4f2f13e74a",
+        "android_client_info": {
+          "package_name": "com.help.womensaftey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318255261662-7qkh6d5dtitcif1jq1sot1jjn4550av4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.help.womensaftey",
+            "certificate_hash": "48f22eb4d73a2add851f1a4307278c63b268bda1"
+          }
+        },
+        {
+          "client_id": "318255261662-mqcc10g0gvdvctjnjpiqa2dvf33osrsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.help.womensaftey",
+            "certificate_hash": "590bcab7976319ba6f8ae1d259f6ecb56c2f09fa"
+          }
+        },
+        {
+          "client_id": "318255261662-vde5bbq28ujga58lb4jr0943hdvandmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.help.womensaftey",
+            "certificate_hash": "cef61b944d6493b71d72249857755cdf78985127"
+          }
+        },
+        {
+          "client_id": "318255261662-7iljlon7gh53m7cjf50glnu5iinheog0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBVV78lH5xenJeX7kjSiYi0lFWQWmN4hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318255261662-7iljlon7gh53m7cjf50glnu5iinheog0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
